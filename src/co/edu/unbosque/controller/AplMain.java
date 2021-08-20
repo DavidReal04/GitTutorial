@@ -5,7 +5,8 @@ public class AplMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("La buena parce");
-		System.out.println("Funci�n en feature2");
+		System.out.println("función en feature_3");
+		System.out.println("Función en feature2");
 	}
 
 }
